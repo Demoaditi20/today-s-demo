@@ -10,6 +10,7 @@ ids.add(a2.id);
 //ok i m adding
 //final addition
 //final addition1
+//final addition2
 for(Account acc:trigger.new){
 if(acc.recordtypeid == '01290000000oslA'){
 if(ids.contains(acc.id)) 
